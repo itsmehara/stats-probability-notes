@@ -44,7 +44,6 @@ stats-probability-notes/
 │   ├── discrete/
 │   │   ├── binomial.md
 │   │   ├── poisson.md
-│
 │   ├── continuous/
 │       ├── normal.md
 │       ├── exponential.md
